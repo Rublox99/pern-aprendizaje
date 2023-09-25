@@ -1,0 +1,8 @@
+- INSTALAR npm init -y PARA package.json inicial
+- INSTALAR npm i express morgan cors COMO DEPENDENCIAS PRINCIPALES
+**express como lector de base de datos
+**morgan como complemento para visualizar solicitudes en consola
+**cors para permitir la comunicación entre servidores
+
+-INSTALAR npm i nodemon -D COMO DEPENDENCIA SECUNDARIA QUE SE INSTALA POR SEPARADO
+**permite escuchar los cambios
