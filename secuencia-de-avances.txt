@@ -6,3 +6,8 @@
 
 -INSTALAR npm i nodemon -D COMO DEPENDENCIA SECUNDARIA QUE SE INSTALA POR SEPARADO
 **permite escuchar los cambios
+
+-PARA CONTINUAR, SE DEFINIERON scripts nuevos
+
+-INSTALAR npm i pg 
+**módulo de PostgreSQL
